@@ -8,6 +8,10 @@ Record and display the dates when your tasks are last conducted.
 
 ![Screenshot of Last Update List](screenshot.png)
 
+## Try
+
+http://hhiro.net/lastupdatelist/en/ (user: admin, password: admin)
+
 ## Features
 
 - Register your tasks that you want to remember **when you conducted them last**, for example, washing or cleaning something.
@@ -49,6 +53,10 @@ The software is released under the MIT License. See `LICENSE` file for the full 
 ※表示言語は日本語にもできます。後述
 
 ![Screenshot of Last Update List](screenshot.png)
+
+## 試してみる
+
+http://hhiro.net/lastupdatelist/ja/ (ユーザ名: admin, パスワード: admin)
 
 ## 特徴
 
